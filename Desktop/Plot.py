@@ -1,3 +1,4 @@
+fark burada
 import sys
 from PyQt4 import QtGui, QtCore
 import numpy as np
